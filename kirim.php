@@ -44,7 +44,7 @@ return true;
 
 }
 
-$to = "randanasution1234@gmail.com"; //email tujuan
+$to = "......@gmail.com"; //email tujuan
 $subject = "New email"; // subject email
 echo"<br/><br/><center><h3>email telah terkirim</h3></center>";
 Send_Mail($to,$subject,$body);
